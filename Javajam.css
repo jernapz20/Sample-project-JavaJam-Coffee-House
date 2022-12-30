@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(240, 227, 200);
+}
+h1
+{
+    background-color: burlywood;
+    color: brown;
+    text-align: center;
+    line-height: 200%;
+    font-family:Georgia, 'Times New Roman', serif;
+}
+#wrapper 
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%
+} 
+a
+{
+    color: blue;
+}
